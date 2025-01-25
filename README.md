@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephanie Achieng
-- 👀 I’m interested in Software Engineering
+- 👀 I’m a Software Engineering
 - 🌱 I’m currently learning Flask, JavaScript,Python and Machine Learning
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me linkedin https://www.linkedin.com/in/stephanie-achieng-1b63201a8/
